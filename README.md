@@ -88,6 +88,7 @@ Go back to our function and add
 ```
 
 now, if we run it again, we should see something like this
+
 ![Screenshot](https://i.imgur.com/Jy8bExY.png)
 
 This is still not quite what we're looking for though. We want to only pick *one* of those words and form a sentence.
