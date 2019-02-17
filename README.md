@@ -193,7 +193,12 @@ bot_util.facebook.AddPage(PAGEID, ACCESSTOKEN, 'RhymeBot').then(id => {
 });
 ```
 
-## And There we go!
+## And there we go!
+
+#### Hope this guide helped some of you understand how facebook bots are made and what goes into making one
+##### I only went over the very basics here, no fancy stuff like images or video, just good ol' text, if you want to go more in depth and get more advanced there are a bunch of resources online that will help you.
+
+## Thanks!
 
 [cron-wiki]: <https://en.wikipedia.org/wiki/Cron>
 [node-schedule-npm]: <https://www.npmjs.com/package/node-schedule>
